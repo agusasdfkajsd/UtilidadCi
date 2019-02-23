@@ -1,0 +1,11 @@
+D:\OneDrive\ETC\repos\Utilidad de CI\Utilidad de CI\bin\Release\Utilidad de CI.exe.config
+D:\OneDrive\ETC\repos\Utilidad de CI\Utilidad de CI\bin\Release\Utilidad de CI.exe
+D:\OneDrive\ETC\repos\Utilidad de CI\Utilidad de CI\bin\Release\Utilidad de CI.pdb
+D:\OneDrive\ETC\repos\Utilidad de CI\Utilidad de CI\bin\Release\Utilidad de CI.xml
+D:\OneDrive\ETC\repos\Utilidad de CI\Utilidad de CI\obj\Release\Utilidad_de_CI.Resources.resources
+D:\OneDrive\ETC\repos\Utilidad de CI\Utilidad de CI\obj\Release\Utilidad_de_CI.Main.resources
+D:\OneDrive\ETC\repos\Utilidad de CI\Utilidad de CI\obj\Release\Utilidad de CI.vbproj.GenerateResource.cache
+D:\OneDrive\ETC\repos\Utilidad de CI\Utilidad de CI\obj\Release\Utilidad de CI.vbproj.CoreCompileInputs.cache
+D:\OneDrive\ETC\repos\Utilidad de CI\Utilidad de CI\obj\Release\Utilidad de CI.exe
+D:\OneDrive\ETC\repos\Utilidad de CI\Utilidad de CI\obj\Release\Utilidad de CI.xml
+D:\OneDrive\ETC\repos\Utilidad de CI\Utilidad de CI\obj\Release\Utilidad de CI.pdb
